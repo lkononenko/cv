@@ -10,8 +10,8 @@
 
         <h2><span>Certificates/Courses</span></h2>
         <ul>
-          <li>Stakeholder Management for PO <br/>@ Prowareness</li>
-          <li>Professional Cloud Solutions Architect <br/>@ Global Knowledge</li>
+          <li>Stakeholder Management for PO @ Prowareness</li>
+          <li>Professional Cloud Solutions Architect @ Global Knowledge</li>
         </ul>
       </div>
       <div class="col col-right">
@@ -174,7 +174,6 @@ export default {
     }
 
     &-left {
-
       background-color: $color-brand-bg;
 
       @include breakpoint-up(md) {
