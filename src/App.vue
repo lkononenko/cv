@@ -18,13 +18,24 @@
 <style lang="scss">
   @import './assets/styles/main.scss';
 
-  #app {
+  html, body {
+    margin: 0;
+    padding: 0;
     font-family: $font-primary;
+    background: $color-white;
+    box-sizing: border-box;
     @include font-size($base-font-sizes);
+    color: $color-content;
+    position: relative;
+    width: 100%;
+    scroll-behavior: smooth;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizelegibility;
+  }
+
+  #app {
     text-align: left;
-    color: $color-content;
   }
 
   p {

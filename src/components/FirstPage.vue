@@ -6,7 +6,48 @@
           <img class="profile-photo"
                src="../assets/images/lkononenko-400x400.jpg">
         </div>
-        Contacts
+        <div class="flex-row">
+          <ui-icon
+                  name="calendar"
+                  class="icon"
+                  size="md" />
+          <span>Aug 22, 1990</span>
+        </div>
+        <div class="flex-row">
+          <ui-icon
+                  name="location"
+                  class="icon"
+                  size="md" />
+          <span>Amsterdam, The Netherlands</span>
+        </div>
+        <div class="flex-row">
+          <ui-icon
+                  name="mobiel"
+                  class="icon"
+                  size="md" />
+          <span>+31651486075</span>
+        </div>
+        <div class="flex-row">
+          <ui-icon
+                  name="envelop"
+                  class="icon"
+                  size="md" />
+          <span><a href="mailto:liubov.kononenko@gmail.com">liubov.kononenko@gmail.com</a></span>
+        </div>
+        <div class="flex-row">
+          <ui-icon
+                  name="linkedin"
+                  class="icon"
+                  size="md" />
+          <span><a href="http://linkedin.com/in/lakononenko" target="_blank">http://linkedin.com/in/lakononenko</a></span>
+        </div>
+        <div class="flex-row">
+          <ui-icon
+                  name="internet"
+                  class="icon"
+                  size="md" />
+          <span><a href="" target="_blank">!!!</a></span>
+        </div>
 
         <h2><span>Certificates/Courses</span></h2>
         <ul>
@@ -19,10 +60,9 @@
         <p>
           Motivated and result-oriented professional with over 9 years of commercial Software Development experience
           in an Agile environment, mostly focused on eCommerce projects. Combining technical knowledge with business
-          and project management skills. Fast and eager learner, not intimidated by complex challenges,
-          strong communicator, resilient and driven even when things get tough. Passionate for technologies,
-          innovations  and sport (have my favourite Adidas shoes ;) Love working with a team and have a joint
-          feeling of accomplishment.
+          and project management skills. Fast and eager learner, not intimidated by complex challenges, strong communicator,
+          resilient and driven even when things get tough. Passionate for technologies, sustainable innovations.
+          Love working with a team and have a joint feeling of accomplishment.
         </p>
         <h2><span>Education</span></h2>
         <div class="block">
@@ -45,26 +85,26 @@
         <div class="block">
           <p class="text-strong">March 2017 – present<span class="degree">Lead Frontend Developer/Technical Product Owner</span></p>
           <p>Member of the eCommerce team with Agile (Scrum) working setup, responsible for the online shop and shared Checkout platform.
-            Focused on providing one shop for all consumer KPN products improving customer experience and cross/up-sell.</p>
+            Focused on providing one shop for all consumer KPN products to improve customer experience and cross/up-sell.</p>
           <p>Achievements:</p>
           <ul>
             <li>Created one shared checkout for all KPN products there by improving customer experience and increasing
-              amount of orders with 15%. Design an architecture of new platform, setting up user stories based on
+              amount of orders with 15%. Designed the architecture for the new platform, set up user stories based on
               requirements and hands-on helped with the development.</li>
-            <li>Member of Taskforce to built one single shop for all KPN products, with the main aim to make sure
+            <li>Member of Taskforce to build one single shop for all KPN products, with the main aim to make sure
               customers can buy different types of products in one flow. Main responsibility was to ensure the technical
-              and business feasibility of the project. First slice of the single shop is currently live.</li>
+              and business feasibility of the project. First part of the single shop is currently live.</li>
           </ul>
           <p>Key responsibilities:</p>
           <ul>
-            <li>Manage stakeholders and gather, define and clarify business requirements.</li>
+            <li>Manage stakeholders; gather, define and clarify business requirements.</li>
             <li>Create user stories and manage the product backlog.</li>
             <li>Align and solve dependencies with multiple cross-functional teams.</li>
             <li>Evaluate resumes and interview candidates for the eCommerce team.</li>
             <li>Mentor new Frontend Developer team members.</li>
             <li>Design the architecture of frontend applications, build new features based on requirements and ensure system consistency.</li>
             <li>Set up and evaluate A/B tests.</li>
-            <li>Develop a roadmap for Single Shop.</li>
+            <li>Create and update roadmap for Single Shop.</li>
             <li>Perform code reviews for other team members, deployment and release management.</li>
           </ul>
         </div>
@@ -74,20 +114,19 @@
         </h4>
         <div class="block">
           <p class="text-strong">July 2016 – March 2017<span class="degree">Senior Frontend Developer</span></p>
-          <p>Main project is https://pushfor.com - a secure content sharing platform with unique social features.
-            Main responsibilities were design the architecture and develop web application using Angular2 framework
-            with TypeScript, increased the performance of the website, perform code reviews for other team members.</p>
+          <p>Main project was https://pushfor.com - secure content sharing platform with unique social features.
+            Main responsibilities were to design the architecture and developed a web application using Angular2 framework
+            with TypeScript, increased the performance of the website, performed code reviews for other team members.</p>
         </div>
         <div class="block">
           <p class="text-strong">August 2012 – July 2016<span class="degree">Full Stack Software Developer</span></p>
-          <p>Development various type of projects (eCommerce, websites, applications) for worldwide customers.
-            Projects from scratch as well as maintenance and development mature projects.</p>
+          <p>Developed various type of projects (eCommerce, websites, applications) for our worldwide customers.</p>
           <p>Main projects and responsibilities:</p>
           <ul>
-            <li>HR and social payment: design and development of the web project from scratch, implementing payments
+            <li>HR and social payment: design and development of the web project, implemented payments
               flow using PayPal and Stripe APIs.</li>
-            <li>Online store: development of the eCommerce project based on Magento system.</li>
-            <li>Social iPhone App: providing API and development web admin panel, web-statistics.</li>
+            <li>Online store: development of the eCommerce project based on the Magento platform.</li>
+            <li>Social iPhone App: provided API and development web admin panel, web-statistics.</li>
           </ul>
         </div>
 
@@ -97,12 +136,14 @@
 </template>
 
 <script>
-export default {
-  name: 'FirstPage',
-  props: {
-    msg: String
+  import UiIcon from './Icon';
+
+  export default {
+    name: 'FirstPage',
+    components: {
+      UiIcon
+    }
   }
-}
 </script>
 
 <style scoped lang="scss">
@@ -133,6 +174,13 @@ export default {
     @include breakpoint-down(md) {
       flex-direction: column;
     }
+  }
+
+  .flex-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    margin: $margin 0;
   }
 /*
   .col {
@@ -196,10 +244,6 @@ export default {
     }
   }
 
-  hr {
-    width: 100%;
-    border-top: 1px solid $color-brand;
-  }
 
   .block {
     margin: 1.5*$margin 0;
@@ -212,6 +256,11 @@ export default {
     border: 2px solid #fff;
     box-shadow: inset 0 1.5px 3px 0 rgba(0,0,0,.15), 0 1.5px 3px 0 rgba(0,0,0,.15);
     border-radius: 50%;
+  }
+
+  .icon {
+    margin-right: $margin;
+    fill: $color-brand-2;
   }
 
   .degree {
