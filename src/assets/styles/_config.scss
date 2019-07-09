@@ -1,7 +1,9 @@
 $color-content: #020202;
-$color-brand: #E7BEA7;
+$color-brand: #38BBE8;
+//$color-brand-2: #3c3c3e;
+//$color-brand-2: #7F7F7F;
+$color-brand-2: #333335;
 $color-brand-bg: #F2F2F2;
-//#7F7F7F
 
 // The grays are mainly used for the texts and UI-elements
 $color-white: #fff;
@@ -18,8 +20,8 @@ $color-black: #000;
 
 
 // Fonts
-$font-primary: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-$font-secondary: "KPN Metric", Verdana, sans-serif;
+$font-primary: Calibri, Roboto, Helvetica, Arial, sans-serif;
+$font-secondary: 'Times New Roman', Helvetica, Arial, sans-serif;;
 
 $font-size-small: 10px;
 $font-size: 12px;
@@ -27,6 +29,27 @@ $font-size-large: 14px;
 
 $line-height-base: 1.5;
 $line-height-small: 1.2;
+
+$font-weight-base: 400;
+$font-weight-medium: 600;
+$font-weight-bold: 700;
+
+//@font-face {
+//    font-family: 'KPN Metric';
+//    src: url('/fonts/KPNMetricWeb-Bold.woff2') format('woff2'),
+//    url("/fonts/KPNMetricWeb-Bold.woff") format("woff");
+//    font-weight: 700;
+//    font-style: normal;
+//}
+//
+//@font-face {
+//    font-family: 'KPN Metric';
+//    src: url('/fonts/KPNMetricWeb-Light.woff2') format('woff2'),
+//    url("/fonts/KPNMetricWeb-Light.woff") format("woff");
+//    font-weight: 200;
+//    font-style: normal;
+//}
+
 
 // Margins
 $margin: 10px;
@@ -43,26 +66,20 @@ $breakpoints: (
 
 $base-font-sizes: (
         default: (12px, 1.5),
-        small: (14px, 1.5),
-        medium: (14px, 1.5)
-);
-
-$base-16-font-sizes: (
-        default: (12px, 1.5),
-        small: (16px, 1.5),
-        medium: (16px, 1.5)
+        small: (12px, 1.5),
+        medium: (12px, 1.5)
 );
 
 $h1-font-sizes: (
-        default: (24px, 1),
-        small: (32px, 1),
-        medium: (44px, 1.09)
+        default: (28px, 1),
+        small: (24px, 1),
+        medium: (28px, 1.09)
 );
 
 $h2-font-sizes: (
-        default: (24px, 1),
-        small: (32px, 1),
-        medium: (32px, 1)
+        default: (14px, 1),
+        small: (14px, 1),
+        medium: (14px, 1)
 );
 
 $h3-font-sizes: (
@@ -72,14 +89,14 @@ $h3-font-sizes: (
 );
 
 $h4-font-sizes: (
-        default: (14px, 1.2),
-        small: (16px, 1.2),
-        medium: (16px, 1.2)
+        default: (13px, 1.2),
+        small: (13px, 1.2),
+        medium: (13px, 1.2)
 );
 
 $h5-font-sizes: (
-        default: (14px, 1.2),
-        small: (14px, 1.2),
-        medium: (14px, 1.2),
-        large: (16px, 1.2)
+        default: (12px, 1.2),
+        small: (12px, 1.2),
+        medium: (12px, 1.2),
+        large: (12px, 1.2)
 );
