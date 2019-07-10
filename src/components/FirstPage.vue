@@ -42,13 +42,6 @@
                     size="lg" />
             <span><a href="http://linkedin.com/in/lakononenko" target="_blank">http://linkedin.com/in/lakononenko</a></span>
           </div>
-          <div class="flex-row">
-            <ui-icon
-                    name="internet"
-                    class="icon"
-                    size="lg" />
-            <span><a href="" target="_blank">!!!</a></span>
-          </div>
         </div>
 
         <div class="block">
@@ -63,7 +56,8 @@
           <h2><span>Awards/Leadership</span></h2>
           <ul>
             <li>2013 - awarded the nominal scholarship from the President of Ukraine for achieved academic successes.
-              Written and published 9 scientific articles.  - more information here (Google translate to English)</li>
+              Written and published 9 scientific articles - more information <a href="https://kpi.ua/1302-1" target="_blank">here</a>
+              (<a href="https://translate.google.com/translate?sl=uk&tl=en&u=https://kpi.ua/1302-1" target="_blank">Google translate to English</a>)</li>
             <li>2011 - winner of the Ukrainian Competition "Professionals of the Future - 2011”.</li>
             <li>2008 - 2010 - deputy head of the student council within the Institute of Telecommunication Systems.</li>
             <li>2007 - 2011 - Class leader at the Kyiv Polytechnic Institute.</li>
@@ -210,7 +204,8 @@
           <h2><span>Volunteering</span></h2>
           <ul>
             <li>Teach fundamentals of Frontend Development for non-Developers (Taste of Code) at KPN.</li>
-            <li>Volunteer at The Next Web conference 2019 - more information here.</li>
+            <li>Volunteer at The Next Web conference 2019 - more information
+              <a href="https://www.linkedin.com/pulse/inspiring-tech-festival-tnw-2019-liubov-kononenko/" target="_blank">here.</a></li>
             <li>Organising and presenting at Women Frontend Developer Meetup.</li>
             <li>Part of the Tech support team for the ADE Hackathon.</li>
           </ul>
