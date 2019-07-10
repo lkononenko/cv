@@ -6,54 +6,121 @@
           <img class="profile-photo"
                src="../assets/images/lkononenko-400x400.jpg">
         </div>
-        <div class="flex-row">
-          <ui-icon
-                  name="calendar"
-                  class="icon"
-                  size="md" />
-          <span>Aug 22, 1990</span>
-        </div>
-        <div class="flex-row">
-          <ui-icon
-                  name="location"
-                  class="icon"
-                  size="md" />
-          <span>Amsterdam, The Netherlands</span>
-        </div>
-        <div class="flex-row">
-          <ui-icon
-                  name="mobiel"
-                  class="icon"
-                  size="md" />
-          <span>+31651486075</span>
-        </div>
-        <div class="flex-row">
-          <ui-icon
-                  name="envelop"
-                  class="icon"
-                  size="md" />
-          <span><a href="mailto:liubov.kononenko@gmail.com">liubov.kononenko@gmail.com</a></span>
-        </div>
-        <div class="flex-row">
-          <ui-icon
-                  name="linkedin"
-                  class="icon"
-                  size="md" />
-          <span><a href="http://linkedin.com/in/lakononenko" target="_blank">http://linkedin.com/in/lakononenko</a></span>
-        </div>
-        <div class="flex-row">
-          <ui-icon
-                  name="internet"
-                  class="icon"
-                  size="md" />
-          <span><a href="" target="_blank">!!!</a></span>
+        <div class="block contact">
+          <div class="flex-row">
+            <ui-icon
+                    name="calendar"
+                    class="icon"
+                    size="lg" />
+            <span>Aug 22, 1990</span>
+          </div>
+          <div class="flex-row">
+            <ui-icon
+                    name="location"
+                    class="icon"
+                    size="lg" />
+            <span>Amsterdam, The Netherlands</span>
+          </div>
+          <div class="flex-row">
+            <ui-icon
+                    name="mobiel"
+                    class="icon"
+                    size="lg" />
+            <span>+31651486075</span>
+          </div>
+          <div class="flex-row">
+            <ui-icon
+                    name="envelop"
+                    class="icon"
+                    size="lg" />
+            <span><a href="mailto:liubov.kononenko@gmail.com">liubov.kononenko@gmail.com</a></span>
+          </div>
+          <div class="flex-row">
+            <ui-icon
+                    name="linkedin"
+                    class="icon"
+                    size="lg" />
+            <span><a href="http://linkedin.com/in/lakononenko" target="_blank">http://linkedin.com/in/lakononenko</a></span>
+          </div>
+          <div class="flex-row">
+            <ui-icon
+                    name="internet"
+                    class="icon"
+                    size="lg" />
+            <span><a href="" target="_blank">!!!</a></span>
+          </div>
         </div>
 
-        <h2><span>Certificates/Courses</span></h2>
-        <ul>
-          <li>Stakeholder Management for PO @ Prowareness</li>
-          <li>Professional Cloud Solutions Architect @ Global Knowledge</li>
-        </ul>
+        <div class="block">
+          <h2><span>Certificates/Courses</span></h2>
+          <ul>
+            <li>Stakeholder Management for PO <br/>@ Prowareness</li>
+            <li>Professional Cloud Solutions Architect @ Global Knowledge</li>
+          </ul>
+        </div>
+
+        <div class="block">
+          <h2><span>Awards/Leadership</span></h2>
+          <ul>
+            <li>2013 - awarded the nominal scholarship from the President of Ukraine for achieved academic successes.
+              Written and published 9 scientific articles.  - more information here (Google translate to English)</li>
+            <li>2011 - winner of the Ukrainian Competition "Professionals of the Future - 2011”.</li>
+            <li>2008 - 2010 - deputy head of the student council within the Institute of Telecommunication Systems.</li>
+            <li>2007 - 2011 - Class leader at the Kyiv Polytechnic Institute.</li>
+          </ul>
+        </div>
+
+        <div class="block">
+          <h2><span>Technical expertise</span></h2>
+          <ul class="tags">
+            <li>JavaScript/TypeScript</li>
+            <li>Vue.js</li>
+            <li>Angular2+</li>
+            <li>Ruby</li>
+            <li>Ruby on Rails</li>
+            <li>PHP</li>
+            <li>Yii2</li>
+            <li>HTML5</li>
+            <li>CSS</li>
+            <li>AJAX</li>
+            <li>Optimizely</li>
+            <li>A/B testing</li>
+            <li>Google Tag Management</li>
+            <li>MySQL</li>
+            <li>PostgreSQL</li>
+            <li>MongoDB</li>
+            <li>API</li>
+            <li>Jenkins</li>
+            <li>Docker</li>
+            <li>Kubernetes</li>
+            <li>AWS Cloud</li>
+          </ul>
+        </div>
+
+        <div class="block">
+          <h2><span>Languages</span></h2>
+          <ul>
+            <li>English</li>
+            <li>Dutch (beginner level A2)</li>
+            <li>Russian</li>
+            <li>Ukrainian</li>
+          </ul>
+        </div>
+
+        <div class="block">
+          <h2><span>Interests</span></h2>
+          <ul class="tags">
+            <li>Sport</li>
+            <li>Piano</li>
+            <li>Dancing</li>
+            <li>Yoga</li>
+            <li>Meditation</li>
+            <li>Traveling</li>
+            <li>Technology</li>
+            <li>Sustainability</li>
+          </ul>
+        </div>
+
       </div>
       <div class="col col-right">
         <h1>Liubov <span>Kononenko</span></h1>
@@ -64,6 +131,7 @@
           resilient and driven even when things get tough. Passionate for technologies, sustainable innovations.
           Love working with a team and have a joint feeling of accomplishment.
         </p>
+
         <h2><span>Education</span></h2>
         <div class="block">
           <p class="text-strong">2011 – 2013 <span class="degree">Master's degree - Computer Science</span></p>
@@ -77,9 +145,11 @@
           <p>In <strong>2010</strong> - High potential exchange program with the Technische Universität Dresden to represent the Kyiv
             Polytechnic Institute. Top 5% of students were selected.</p>
         </div>
+
         <h2><span>Work Experience</span></h2>
+
         <h4 class="company">
-          <a href="https://www.kpn.com" target="_blank">KPN</a>
+          <a href="http://www.kpn.com" target="_blank">KPN</a>
           <span> - Dutch landline and mobile telecommunications company</span>
         </h4>
         <div class="block">
@@ -108,6 +178,7 @@
             <li>Perform code reviews for other team members, deployment and release management.</li>
           </ul>
         </div>
+
         <h4 class="company">
           <a href="https://www.softheme.com" target="_blank">Softheme</a>
           <span> - Software Development outsourcing company</span>
@@ -118,6 +189,7 @@
             Main responsibilities were to design the architecture and developed a web application using Angular2 framework
             with TypeScript, increased the performance of the website, performed code reviews for other team members.</p>
         </div>
+        <div class="pagebreak"></div>
         <div class="block">
           <p class="text-strong">August 2012 – July 2016<span class="degree">Full Stack Software Developer</span></p>
           <p>Developed various type of projects (eCommerce, websites, applications) for our worldwide customers.</p>
@@ -129,7 +201,20 @@
             <li>Social iPhone App: provided API and development web admin panel, web-statistics.</li>
           </ul>
         </div>
+        <div class="block">
+          <p class="text-strong">May 2011 – August 2012<span class="degree">Junior Web Developer</span></p>
+          <p>Web development based on CMSs, responsive web design, development of new plugins and modules.</p>
+        </div>
 
+        <div class="block">
+          <h2><span>Volunteering</span></h2>
+          <ul>
+            <li>Teach fundamentals of Frontend Development for non-Developers (Taste of Code) at KPN.</li>
+            <li>Volunteer at The Next Web conference 2019 - more information here.</li>
+            <li>Organising and presenting at Women Frontend Developer Meetup.</li>
+            <li>Part of the Tech support team for the ADE Hackathon.</li>
+          </ul>
+        </div>
       </div>
     </div>
   </div>
@@ -149,23 +234,6 @@
 <style scoped lang="scss">
   @import '../assets/styles/main.scss';
 
-  /*h3 {*/
-  /*  margin: 40px 0 0;*/
-  /*}*/
-  /*ul {*/
-  /*  list-style-type: none;*/
-  /*  padding: 0;*/
-  /*}*/
-  /*li {*/
-  /*  display: inline-block;*/
-  /*  margin: 0 10px;*/
-  /*}*/
-  /*a {*/
-  /*  color: #42b983;*/
-  /*}*/
-
-
-
   .row {
     display: flex;
     flex-direction: row;
@@ -179,19 +247,10 @@
   .flex-row {
     display: flex;
     flex-direction: row;
-    justify-content: start;
+    justify-content: flex-start;
     margin: $margin 0;
   }
-/*
-  .col {
-    display: flex;
-    flex-direction: column;
 
-    &.centered {
-       justify-content: center;
-     }
-  }
-*/
   h1 {
     text-align: center;
 
@@ -203,7 +262,6 @@
   .page {
     @include breakpoint-up(md) {
       width: 210mm;
-      height: 297mm;
       margin: 0 auto;
       border: 1px solid $color-gray-30;
     }
@@ -218,7 +276,7 @@
     padding: $margin;
 
     @include breakpoint-up(md) {
-      padding: 3*$margin;
+      padding: 2*$margin 3*$margin;
     }
 
     &-left {
@@ -228,12 +286,20 @@
         width: 30%;
       }
 
-      h2 span {
-        background-color: $color-brand-bg;
+      h2  {
+        margin-top: 3*$margin;
+
+        span {
+          background-color: $color-brand-bg;
+        }
       }
 
       ul {
         padding-left: 15px;
+
+        li {
+          text-align: left;
+        }
       }
     }
 
@@ -273,6 +339,37 @@
     span {
       @include font-size($base-font-sizes);
       font-weight: normal;
+    }
+  }
+
+  // for print and PDF
+  @media print {
+    .pagebreak {
+      page-break-before: always;
+      height: 2*$margin;
+      display: block;
+    }
+
+    .row {
+      display: block;
+    }
+    .page {
+      width: 793px;
+      margin: 0;
+      padding: 0;
+    }
+
+    .col {
+      float: left;
+      padding: 2*$margin;
+    }
+    .col-left {
+      width: 210px;
+      background: $color-brand-bg;
+      height: 2188px; // 2 * A4 pages
+    }
+    .col-right {
+      width: 502px;
     }
   }
 </style>

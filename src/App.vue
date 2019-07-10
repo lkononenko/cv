@@ -23,6 +23,7 @@
     padding: 0;
     font-family: $font-primary;
     background: $color-white;
+    -webkit-print-color-adjust: exact;
     box-sizing: border-box;
     @include font-size($base-font-sizes);
     color: $color-content;
@@ -68,6 +69,24 @@
         position: absolute;
         top: -8px;
         left: 7px;
+      }
+    }
+  }
+
+  ul.tags {
+    padding-left: 0!important;
+
+    li {
+      margin: 5px 5px 5px 0;
+      display: inline-block;
+      padding: 3px 5px;
+      position: relative;
+      //background: #afd6e0;
+      border-radius: 6px;
+      border: 1px solid $color-brand;
+
+      &:before {
+        content: none;
       }
     }
   }
