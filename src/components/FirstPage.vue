@@ -42,6 +42,13 @@
                     size="lg" />
             <span><a href="http://linkedin.com/in/lakononenko" target="_blank">http://linkedin.com/in/lakononenko</a></span>
           </div>
+          <div class="flex-row">
+            <ui-icon
+                    name="internet"
+                    class="icon"
+                    size="lg" />
+            <span><a href="https://lkononenko.github.io/cv/" target="_blank">https://lkononenko.github.io/cv</a></span>
+          </div>
         </div>
 
         <div class="block">
@@ -144,7 +151,7 @@
 
         <h4 class="company">
           <a href="http://www.kpn.com" target="_blank">KPN</a>
-          <span> - Dutch landline and mobile telecommunications company</span>
+          <span>(https://www.kpn.com  - Dutch landline and mobile telecommunications company)</span>
         </h4>
         <div class="block">
           <p class="text-strong">March 2017 – present<span class="degree">Lead Frontend Developer/Technical Product Owner</span></p>
@@ -205,7 +212,7 @@
           <ul>
             <li>Teach fundamentals of Frontend Development for non-Developers (Taste of Code) at KPN.</li>
             <li>Volunteer at The Next Web conference 2019 - more information
-              <a href="https://www.linkedin.com/pulse/inspiring-tech-festival-tnw-2019-liubov-kononenko/" target="_blank">here.</a></li>
+              <a href="https://www.linkedin.com/pulse/inspiring-tech-festival-tnw-2019-liubov-kononenko/" target="_blank">here</a>.</li>
             <li>Organising and presenting at Women Frontend Developer Meetup.</li>
             <li>Part of the Tech support team for the ADE Hackathon.</li>
           </ul>
