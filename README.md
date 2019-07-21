@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # cv
 
 ## Project setup
