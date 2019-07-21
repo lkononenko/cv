@@ -77,11 +77,10 @@
     padding-left: 0!important;
 
     li {
-      margin: 5px 5px 5px 0;
+      margin: 3px 5px 4px 0;
       display: inline-block;
       padding: 3px 5px;
       position: relative;
-      //background: #afd6e0;
       border-radius: 6px;
       border: 1px solid $color-brand;
 

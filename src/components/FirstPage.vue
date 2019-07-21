@@ -54,6 +54,7 @@
         <div class="block">
           <h2><span>Certificates/Courses</span></h2>
           <ul>
+            <li>Professional Scrum Product Owner<br/>@ Xebia</li>
             <li>Stakeholder Management for PO <br/>@ Prowareness</li>
             <li>Professional Cloud Solutions Architect @ Global Knowledge</li>
           </ul>
@@ -62,39 +63,39 @@
         <div class="block">
           <h2><span>Awards/Leadership</span></h2>
           <ul>
-            <li>2013 - awarded the nominal scholarship from the President of Ukraine for achieved academic successes.
-              Written and published 9 scientific articles - more information <a href="https://kpi.ua/1302-1" target="_blank">here</a>
-              (<a href="https://translate.google.com/translate?sl=uk&tl=en&u=https://kpi.ua/1302-1" target="_blank">Google translate to English</a>)</li>
-            <li>2011 - winner of the Ukrainian Competition "Professionals of the Future - 2011”.</li>
-            <li>2008 - 2010 - deputy head of the student council within the Institute of Telecommunication Systems.</li>
-            <li>2007 - 2011 - Class leader at the Kyiv Polytechnic Institute.</li>
+            <li>2013 - awarded the nominal scholarship from the President of Ukraine for achieved academic successes,
+              written and published 9 scientific articles - more information <a href="https://kpi.ua/1302-1" target="_blank">https://kpi.ua/1302-1</a>
+              (translate to English <a href="https://tinyurl.com/y3hj4ywd" target="_blank">https://tinyurl.com/y3hj4ywd</a>)</li>
+            <li>2011 - Winner of the Ukrainian Competition "Professionals of the Future - 2011”</li>
+            <li>2008 - 2010 - deputy head of the student council within the Institute of Telecommunication Systems</li>
+            <li>2007 - 2011 - class leader at the Kyiv Polytechnic Institute</li>
           </ul>
         </div>
 
         <div class="block">
           <h2><span>Technical expertise</span></h2>
           <ul class="tags">
-            <li>JavaScript/TypeScript</li>
+            <li>Optimizely</li>
+            <li>A/B testing</li>
+            <li>Google Tag Management</li>
+            <li>JavaScript</li>
             <li>Vue.js</li>
             <li>Angular2+</li>
-            <li>Ruby</li>
             <li>Ruby on Rails</li>
             <li>PHP</li>
             <li>Yii2</li>
             <li>HTML5</li>
             <li>CSS</li>
-            <li>AJAX</li>
-            <li>Optimizely</li>
-            <li>A/B testing</li>
-            <li>Google Tag Management</li>
             <li>MySQL</li>
+          </ul>
+          <div class="pagebreak"></div>
+          <ul class="tags">
             <li>PostgreSQL</li>
             <li>MongoDB</li>
-            <li>API</li>
+            <li>AWS</li>
             <li>Jenkins</li>
             <li>Docker</li>
             <li>Kubernetes</li>
-            <li>AWS Cloud</li>
           </ul>
         </div>
 
@@ -129,7 +130,7 @@
           Motivated and result-oriented professional with over 9 years of commercial Software Development experience
           in an Agile environment, mostly focused on eCommerce projects. Combining technical knowledge with business
           and project management skills. Fast and eager learner, not intimidated by complex challenges, strong communicator,
-          resilient and driven even when things get tough. Passionate for technologies, sustainable innovations.
+          resilient and driven even when things get tough. Passionate for technologies and sustainable innovations.
           Love working with a team and have a joint feeling of accomplishment.
         </p>
 
@@ -151,7 +152,7 @@
 
         <h4 class="company">
           <a href="http://www.kpn.com" target="_blank">KPN</a>
-          <span>(https://www.kpn.com  - Dutch landline and mobile telecommunications company)</span>
+          <span> (https://www.kpn.com  - Dutch landline and mobile telecommunications company)</span>
         </h4>
         <div class="block">
           <p class="text-strong">March 2017 – present<span class="degree">Lead Frontend Developer/Technical Product Owner</span></p>
@@ -160,7 +161,7 @@
           <p>Achievements:</p>
           <ul>
             <li>Created one shared checkout for all KPN products there by improving customer experience and increasing
-              amount of orders with 15%. Designed the architecture for the new platform, set up user stories based on
+              amount of orders. Designed the architecture for the new platform, set up user stories based on
               requirements and hands-on helped with the development.</li>
             <li>Member of Taskforce to build one single shop for all KPN products, with the main aim to make sure
               customers can buy different types of products in one flow. Main responsibility was to ensure the technical
@@ -182,13 +183,13 @@
 
         <h4 class="company">
           <a href="https://www.softheme.com" target="_blank">Softheme</a>
-          <span> - Software Development outsourcing company</span>
+          <span> (https://www.softheme.com - Software Development outsourcing company)</span>
         </h4>
         <div class="block">
           <p class="text-strong">July 2016 – March 2017<span class="degree">Senior Frontend Developer</span></p>
           <p>Main project was https://pushfor.com - secure content sharing platform with unique social features.
             Main responsibilities were to design the architecture and developed a web application using Angular2 framework
-            with TypeScript, increased the performance of the website, performed code reviews for other team members.</p>
+            with TypeScript, to increase the performance of the website, perform code reviews for other team members.</p>
         </div>
         <div class="pagebreak"></div>
         <div class="block">
@@ -211,8 +212,8 @@
           <h2><span>Volunteering</span></h2>
           <ul>
             <li>Teach fundamentals of Frontend Development for non-Developers (Taste of Code) at KPN.</li>
-            <li>Volunteer at The Next Web conference 2019 - more information
-              <a href="https://www.linkedin.com/pulse/inspiring-tech-festival-tnw-2019-liubov-kononenko/" target="_blank">here</a>.</li>
+            <li style="text-align: left;">Volunteer at The Next Web conference 2019 - more information
+              <a href="https://tinyurl.com/y52baov6" target="_blank">https://tinyurl.com/y52baov6</a>.</li>
             <li>Organising and presenting at Women Frontend Developer Meetup.</li>
             <li>Part of the Tech support team for the ADE Hackathon.</li>
           </ul>
@@ -332,7 +333,7 @@
   }
 
   .degree {
-    font-style: italic;
+    /*font-style: italic;*/
     margin-left: 25px;
   }
 
@@ -368,7 +369,7 @@
     .col-left {
       width: 210px;
       background: $color-brand-bg;
-      height: 2188px; // 2 * A4 pages
+      height: 2200px; // 2 * A4 pages
     }
     .col-right {
       width: 502px;
