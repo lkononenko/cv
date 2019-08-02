@@ -26,7 +26,7 @@
                     name="mobiel"
                     class="icon"
                     size="lg" />
-            <span>+31651486075</span>
+            <span><a href="tel:+31651486075">+31651486075</a></span>
           </div>
           <div class="flex-row">
             <ui-icon
@@ -54,7 +54,8 @@
         <div class="block">
           <h2><span>Certificates/Courses</span></h2>
           <ul>
-            <li>Professional Scrum Product Owner<br/>@ Xebia</li>
+<!--            <li>Professional Scrum Product Owner (PSPO I) @ Scrum.org</li>-->
+            <li><a href="./files/pspo.pdf" target="_blank">Professional Scrum Product Owner (PSPO I)</a> @ Scrum.org</li>
             <li>Stakeholder Management for PO <br/>@ Prowareness</li>
             <li>Professional Cloud Solutions Architect @ Global Knowledge</li>
           </ul>
