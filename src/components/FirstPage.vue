@@ -128,7 +128,7 @@
         <h1>Liubov <span>Kononenko</span></h1>
         <p>
           Motivated and result-oriented professional with over 9 years of commercial Software Development experience
-          in an Agile environment, mostly focused on eCommerce projects. Combining technical knowledge with business
+          in an Agile environment, mostly focused on Web projects. Combining technical knowledge with business
           and project management skills. Fast and eager learner, not intimidated by complex challenges, strong communicator,
           resilient and driven even when things get tough. Passionate for technologies and sustainable innovations.
           Love working with a team and have a joint feeling of accomplishment.
@@ -155,28 +155,29 @@
           <span> (https://www.kpn.com  - Dutch landline and mobile telecommunications company)</span>
         </h4>
         <div class="block">
-          <p class="text-strong">March 2017 – present<span class="degree">Lead Frontend Developer/Technical Product Owner</span></p>
-          <p>Member of the eCommerce team with Agile (Scrum) working setup, responsible for the online shop and shared Checkout platform.
-            Focused on providing one shop for all consumer KPN products to improve customer experience and cross/up-sell.</p>
-          <p>Achievements:</p>
-          <ul>
-            <li>Created one shared checkout for all KPN products there by improving customer experience and increasing
-              amount of orders. Designed the architecture for the new platform, set up user stories based on
-              requirements and hands-on helped with the development.</li>
-            <li>Member of Taskforce to build one single shop for all KPN products, with the main aim to make sure
-              customers can buy different types of products in one flow. Main responsibility was to ensure the technical
-              and business feasibility of the project. First part of the single shop is currently live.</li>
-          </ul>
+          <p class="text-strong">December 2018 – present<span class="degree">Technical Product Owner</span></p>
+          <p>Member of the eCommerce team with Agile (Scrum) working setup, responsible for a new Single Shop with the main aim to make sure
+            customers can buy different types of products in one flow to improve customer experience and cross/up-sell.
+            First part of the Single Shop is currently live.</p>
           <p>Key responsibilities:</p>
           <ul>
             <li>Manage stakeholders; gather, define and clarify business requirements.</li>
-            <li>Create user stories and manage the product backlog.</li>
+            <li>Create user stories based on requirements and prioritize the product backlog.</li>
             <li>Align and solve dependencies with multiple cross-functional teams.</li>
-            <li>Evaluate resumes and interview candidates for the eCommerce team.</li>
-            <li>Mentor new Frontend Developer team members.</li>
-            <li>Design the architecture of frontend applications, build new features based on requirements and ensure system consistency.</li>
             <li>Set up and evaluate A/B tests.</li>
             <li>Create and update roadmap for Single Shop.</li>
+            <li>Evaluate resumes and interview candidates for the eCommerce team.</li>
+          </ul>
+        </div>
+        <div class="block">
+          <p class="text-strong">March 2017 – December 2018<span class="degree">Lead Frontend Developer</span></p>
+          <p>Created one shared checkout platform for all KPN products there by improving customer experience and increasing
+            amount of orders.</p>
+          <p>Key responsibilities:</p>
+          <ul>
+            <li>Design the architecture of frontend applications, build new features based on requirements and ensure system consistency.</li>
+            <li>Mentor new Frontend Developer team members.</li>
+            <li>Evaluate resumes and interview candidates for the eCommerce team.</li>
             <li>Perform code reviews for other team members, deployment and release management.</li>
           </ul>
         </div>
