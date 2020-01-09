@@ -9,44 +9,44 @@
         <div class="block contact">
           <div class="flex-row">
             <ui-icon
-                    name="calendar"
-                    class="icon"
-                    size="lg" />
+                name="calendar"
+                class="icon"
+                size="lg" />
             <span>Aug 22, 1990</span>
           </div>
           <div class="flex-row">
             <ui-icon
-                    name="location"
-                    class="icon"
-                    size="lg" />
+                name="location"
+                class="icon"
+                size="lg" />
             <span>Amsterdam, The Netherlands</span>
           </div>
           <div class="flex-row">
             <ui-icon
-                    name="mobiel"
-                    class="icon"
-                    size="lg" />
+                name="mobiel"
+                class="icon"
+                size="lg" />
             <span><a href="tel:+31651486075">+31651486075</a></span>
           </div>
           <div class="flex-row">
             <ui-icon
-                    name="envelop"
-                    class="icon"
-                    size="lg" />
+                name="envelop"
+                class="icon"
+                size="lg" />
             <span><a href="mailto:liubov.kononenko@gmail.com">liubov.kononenko@gmail.com</a></span>
           </div>
           <div class="flex-row">
             <ui-icon
-                    name="linkedin"
-                    class="icon"
-                    size="lg" />
+                name="linkedin"
+                class="icon"
+                size="lg" />
             <span><a href="http://linkedin.com/in/lakononenko" target="_blank">http://linkedin.com/in/lakononenko</a></span>
           </div>
           <div class="flex-row">
             <ui-icon
-                    name="internet"
-                    class="icon"
-                    size="lg" />
+                name="internet"
+                class="icon"
+                size="lg" />
             <span><a href="https://lkononenko.github.io/cv/" target="_blank">https://lkononenko.github.io/cv</a></span>
           </div>
         </div>
@@ -54,48 +54,90 @@
         <div class="block">
           <h2><span>Certificates/Courses</span></h2>
           <ul>
-            <li><a href="./files/pspo.pdf" target="_blank">Professional Scrum Product Owner (PSPO I)</a> @ Scrum.org</li>
-            <li>Stakeholder Management for PO <br/>@ Prowareness</li>
-            <li>Professional Cloud Solutions Architect @ Global Knowledge</li>
+            <li>2019 - AWS Solution Architect – Associate @ Global Knowledge </li>
+            <li>2019 - <a href="./files/pspo.pdf" target="_blank">Professional Scrum Product Owner (PSPO I)</a> @ Scrum.org</li>
+            <li>2018 - Professional Cloud Solutions Architect @ Global Knowledge</li>
+            <li>2018 - Stakeholder Management for PO @ Prowareness</li>
           </ul>
         </div>
 
-        <div class="block">
-          <h2><span>Awards/Leadership</span></h2>
-          <ul>
-            <li>2013 - awarded the nominal scholarship from the President of Ukraine for achieved academic successes,
-              written and published 9 scientific articles - more information <a href="https://kpi.ua/1302-1" target="_blank">https://kpi.ua/1302-1</a>
-              (translate to English <a href="https://tinyurl.com/y3hj4ywd" target="_blank">https://tinyurl.com/y3hj4ywd</a>)</li>
-            <li>2011 - Winner of the Ukrainian Competition "Professionals of the Future - 2011”</li>
-            <li>2008 - 2010 - deputy head of the student council within the Institute of Telecommunication Systems</li>
-            <li>2007 - 2011 - class leader at the Kyiv Polytechnic Institute</li>
-          </ul>
-        </div>
-
+        <!--
         <div class="block">
           <h2><span>Technical expertise</span></h2>
           <ul class="tags">
-            <li>Optimizely</li>
-            <li>A/B testing</li>
-            <li>Google Tag Management</li>
             <li>JavaScript</li>
             <li>Vue.js</li>
             <li>Angular2+</li>
-            <li>Ruby on Rails</li>
+            <li>Ruby</li>
             <li>PHP</li>
             <li>Yii2</li>
+            <li>Magento</li>
+            <li>Ruby on Rails</li>
             <li>HTML5</li>
             <li>CSS</li>
             <li>MySQL</li>
-          </ul>
-          <div class="pagebreak"></div>
-          <ul class="tags">
             <li>PostgreSQL</li>
             <li>MongoDB</li>
             <li>AWS</li>
             <li>Jenkins</li>
             <li>Docker</li>
             <li>Kubernetes</li>
+            <li>A/B testing</li>
+            <li>Optimizely</li>
+            <li>Tag Management</li>
+          </ul>
+        </div>
+        -->
+
+        <div class="block">
+          <h2><span>Technical expertise</span></h2>
+          <ul>
+            <li>
+              <strong>Programming Languages</strong>
+              <ul class="tags">
+                <li>JavaScript</li>
+                <li>TypeScript</li>
+                <li>Ruby</li>
+                <li>PHP</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Frameworks/Platforms</strong>
+              <ul class="tags">
+                <li>Vue.js</li>
+                <li>Nuxt.js</li>
+                <li>Angular2+</li>
+                <li>Yii2</li>
+                <li>Ruby on Rails</li>
+                <li>Magento</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Web Technologies</strong>
+              <ul class="tags">
+                <li>HTML5</li>
+                <li>CSS</li>
+                <li>Sass (SCSS)</li>
+                <li>RESTful API</li>
+                <li>Server-Side Rendering</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Databases</strong>
+              <ul class="tags">
+                <li>MySQL</li>
+                <li>PostgreSQL</li>
+                <li>MongoDB</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Deployment</strong>
+              <ul class="tags">
+                <li>Kubernetes</li>
+                <li>Jenkins</li>
+                <li>AWS Services</li>
+              </ul>
+            </li>
           </ul>
         </div>
 
@@ -103,23 +145,35 @@
           <h2><span>Languages</span></h2>
           <ul>
             <li>English</li>
-            <li>Dutch (beginner level A2)</li>
+            <li>Dutch (Intermediate level B1)</li>
             <li>Russian</li>
             <li>Ukrainian</li>
+          </ul>
+        </div>
+        <div class="pagebreak" style="height: 5px;"/>
+
+        <div class="block">
+          <h2><span>Awards/Leadership</span></h2>
+          <ul>
+            <li>2013 - awarded the nominal scholarship from the President of Ukraine for achieved academic successes,
+              written and published 9 scientific articles - more information <a href="https://kpi.ua/1302-1" target="_blank">https://kpi.ua/1302-1</a>
+              (translate to English <a href="https://tinyurl.com/y3hj4ywd" target="_blank">https://tinyurl.com/y3hj4ywd</a>)</li>
+            <li>2011 - Winner of the Ukrainian Competition in the Telecommunication field "Professionals of the Future - 2011”</li>
+            <li>2008 - 2010 - deputy head of the student council within the Institute of Telecommunication Systems</li>
+            <li>2007 - 2011 - class leader at the Kyiv Polytechnic Institute</li>
           </ul>
         </div>
 
         <div class="block">
           <h2><span>Interests</span></h2>
           <ul class="tags">
+            <li>Technology</li>
             <li>Sport</li>
             <li>Piano</li>
-            <li>Dancing</li>
-            <li>Yoga</li>
-            <li>Meditation</li>
             <li>Traveling</li>
-            <li>Technology</li>
-            <li>Sustainability</li>
+            <li>Yoga</li>
+            <li>Dancing</li>
+            <li>Sustainable innovations</li>
           </ul>
         </div>
 
@@ -127,11 +181,10 @@
       <div class="col col-right">
         <h1>Liubov <span>Kononenko</span></h1>
         <p>
-          Motivated and result-oriented professional with over 9 years of commercial Software Development experience
+          Motivated and result-oriented professional with over 9 years of commercial Full Stack Software Development experience
           in an Agile environment, mostly focused on Web projects. Combining technical knowledge with business
           and project management skills. Fast and eager learner, not intimidated by complex challenges, strong communicator,
           resilient and driven even when things get tough. Passionate for technologies and sustainable innovations.
-          Love working with a team and have a joint feeling of accomplishment.
         </p>
 
         <h2><span>Education</span></h2>
@@ -155,31 +208,31 @@
           <span> (https://www.kpn.com  - Dutch landline and mobile telecommunications company)</span>
         </h4>
         <div class="block">
-          <p class="text-strong">December 2018 – present<span class="degree">Technical Product Owner</span></p>
-          <p>Member of the eCommerce team with Agile (Scrum) working setup, responsible for a new Single Shop with the main aim to make sure
-            customers can buy different types of products in one flow to improve customer experience and cross/up-sell.
-            First part of the Single Shop is currently live.</p>
-          <p>Key responsibilities:</p>
+          <p class="text-strong">December 2018 – present<span class="degree">Technical Consultant / Software Engineer</span></p>
+          <p>Member of the eCommerce team with Agile working setup, responsible for a new Single Shop platform (high complexity project) with the main aim to make sure
+            customers can buy different types of products in one flow to improve customer experience and cross/up-sell. Key responsibilities:</p>
           <ul>
-            <li>Manage stakeholders; gather, define and clarify business requirements.</li>
-            <li>Create user stories based on requirements and prioritize the product backlog.</li>
+            <li>Started the project from scratch with a Taskforce group to design a future proof architecture and provide solutions for technical challenges.</li>
             <li>Align and solve dependencies with multiple cross-functional teams.</li>
-            <li>Set up and evaluate A/B tests.</li>
-            <li>Create and update roadmap for Single Shop.</li>
+            <li>Manage stakeholders; gather, define and clarify business requirements.</li>
+            <li>Build new features based on requirements.</li>
+            <li>Perform code review, deployment and release management.</li>
             <li>Evaluate resumes and interview candidates for the eCommerce team.</li>
           </ul>
+          <p>Technology Stack: JavaScript, Vue.js (Nuxt.js with server-side rendering), Node.js, npm, Webpack, HTML, Sass, Jenkins, Kubernetes, T-Cloud, moving to AWS.</p>
         </div>
         <div class="block">
           <p class="text-strong">March 2017 – December 2018<span class="degree">Lead Frontend Developer</span></p>
-          <p>Created one shared checkout platform for all KPN products there by improving customer experience and increasing
-            amount of orders.</p>
+          <p>Created one shared eCommerce Checkout platform for all KPN products there by improving customer experience and
+            increasing amount of orders.</p>
           <p>Key responsibilities:</p>
           <ul>
-            <li>Design the architecture of frontend applications, build new features based on requirements and ensure system consistency.</li>
+            <li>Design architecture of frontend applications, build new features based on requirements and ensure system consistency.</li>
             <li>Mentor new Frontend Developer team members.</li>
             <li>Evaluate resumes and interview candidates for the eCommerce team.</li>
-            <li>Perform code reviews for other team members, deployment and release management.</li>
+            <li>Perform code review, deployment and release management.</li>
           </ul>
+          <p>Technology Stack: TypeScript, Angular 5, npm, Webpack, HTML, Sass, Storybook, Jenkins , Kubernetes, T-Cloud.</p>
         </div>
 
         <h4 class="company">
@@ -188,31 +241,36 @@
         </h4>
         <div class="block">
           <p class="text-strong">July 2016 – March 2017<span class="degree">Senior Frontend Developer</span></p>
-          <p>Main project was https://pushfor.com - secure content sharing platform with unique social features.
-            Main responsibilities were to design the architecture and developed a web application using Angular2 framework
-            with TypeScript, to increase the performance of the website, perform code reviews for other team members.</p>
+          <p>The project https://pushfor.com - secure content sharing platform with unique social features.</p>
+          <div class="pagebreak" />
+          <p>Key responsibilities:</p>
+          <ul>
+            <li>Design the architecture and develop web application, build new features based on requirements.</li>
+            <li>Perform code review for other team members</li>
+          </ul>
+          <p>Technology Stack: TypeScript, Angular 2, npm, Webpack, HTML, Sass, Jenkins .</p>
         </div>
-        <div class="pagebreak"></div>
         <div class="block">
           <p class="text-strong">August 2012 – July 2016<span class="degree">Full Stack Software Developer</span></p>
-          <p>Developed various type of projects (eCommerce, websites, applications) for our worldwide customers.</p>
+          <p>Developed various type of projects (eCommerce, websites, applications) on client and server-side for worldwide customers.</p>
           <p>Main projects and responsibilities:</p>
           <ul>
-            <li>HR and social payment: design and development of the web project, implemented payments
-              flow using PayPal and Stripe APIs.</li>
+            <li>HR and Payment systems: design and development of the web projects, implement payments flow using PayPal and Stripe APIs.</li>
+            <li>Social App: building API for external systems; development web admin panel, web statistics.</li>
             <li>Online store: development of the eCommerce project based on the Magento platform.</li>
-            <li>Social iPhone App: provided API and development web admin panel, web-statistics.</li>
           </ul>
+          <p>Technology Stacks: Ruby (Ruby on Rails), PHP (Yii2), Magento , PostgreSQL, MongoDB, Javascript, jQuery, HTML, CSS.</p>
         </div>
         <div class="block">
           <p class="text-strong">May 2011 – August 2012<span class="degree">Junior Web Developer</span></p>
           <p>Web development based on CMSs, responsive web design, development of new plugins and modules.</p>
+          <p>Technology Stacks: Javascript, jQuery, HTML, CSS, PHP, MySQL, Drupal, Wordpress.</p>
         </div>
 
         <div class="block">
           <h2><span>Volunteering</span></h2>
           <ul>
-            <li>Teach fundamentals of Frontend Development for non-Developers (Taste of Code) at KPN.</li>
+            <li>Workshops - Teach fundamentals of Frontend Development for non-Developers (Taste of Code) at KPN.</li>
             <li style="text-align: left;">Volunteer at The Next Web conference 2019 - more information
               <a href="https://tinyurl.com/y52baov6" target="_blank">https://tinyurl.com/y52baov6</a>.</li>
             <li>Organising and presenting at Women Frontend Developer Meetup.</li>
@@ -280,14 +338,14 @@
     padding: $margin;
 
     @include breakpoint-up(md) {
-      padding: 2*$margin 3*$margin;
+      padding: 2*$margin;
     }
 
     &-left {
       background-color: $color-brand-bg;
 
       @include breakpoint-up(md) {
-        width: 30%;
+        width: 35%;
       }
 
       h2  {
@@ -309,7 +367,7 @@
 
     &-right {
       @include breakpoint-up(md) {
-        width: 70%;
+        width: 65%;
       }
     }
   }
@@ -348,6 +406,10 @@
 
   // for print and PDF
   @media print {
+    h2 {
+      margin: 18px 0;
+    }
+
     .pagebreak {
       page-break-before: always;
       height: 2*$margin;
@@ -368,12 +430,12 @@
       padding: 2*$margin;
     }
     .col-left {
-      width: 210px;
+      width: 250px;
       background: $color-brand-bg;
       height: 2200px; // 2 * A4 pages
     }
     .col-right {
-      width: 502px;
+      width: 462px;
     }
   }
 </style>
