@@ -26,7 +26,7 @@
                 name="mobiel"
                 class="icon"
                 size="lg" />
-            <span><a href="tel:+31651486075">+31651486075</a></span>
+            <span>+31649530792</span>
           </div>
           <div class="flex-row">
             <ui-icon
@@ -42,53 +42,32 @@
                 size="lg" />
             <span><a href="http://linkedin.com/in/lakononenko" target="_blank">http://linkedin.com/in/lakononenko</a></span>
           </div>
-          <div class="flex-row">
+          <!-- <div class="flex-row">
             <ui-icon
                 name="internet"
                 class="icon"
                 size="lg" />
             <span><a href="https://lkononenko.github.io/cv/" target="_blank">https://lkononenko.github.io/cv</a></span>
+          </div>-->
+          <div class="flex-row">
+            <ui-icon
+                name="salesforce"
+                class="icon"
+                size="xl" />
+            <span><a href="https://trailblazer.me/id/lkononenko" target="_blank">https://trailblazer.me/id/lkononenko</a></span>
           </div>
         </div>
 
         <div class="block">
           <h2><span>Certificates/Courses</span></h2>
           <ul>
-            <li>2019 - AWS Solution Architect – Associate @ Global Knowledge </li>
-            <li>2019 - <a href="./files/pspo.pdf" target="_blank">Professional Scrum Product Owner (PSPO I)</a> @ Scrum.org</li>
-            <li>2018 - Professional Cloud Solutions Architect @ Global Knowledge</li>
-            <li>2018 - Stakeholder Management for PO @ Prowareness</li>
+            <!-- ./files/pspo.pdf -->
+            <li><a href="https://www.scrum.org/user/530356" target="_blank">Professional Scrum Product Owner (PSPOI)</a> @ Scrum.org</li>
+            <li>Stakeholder Management @ Prowareness</li>
+            <li><a href="https://www.credly.com/badges/a6752fe3-3a80-4215-a676-607a2e7256e5?source=linked_in_profile" target="_blank">AWS Solution Architect – Associate</a> @ Global Knowledge </li>
+            <li>Professional Cloud Solutions Architect @ Global Knowledge</li>
           </ul>
         </div>
-
-        <!--
-        <div class="block">
-          <h2><span>Technical expertise</span></h2>
-          <ul class="tags">
-            <li>JavaScript</li>
-            <li>Vue.js</li>
-            <li>Angular2+</li>
-            <li>Ruby</li>
-            <li>PHP</li>
-            <li>Yii2</li>
-            <li>Magento</li>
-            <li>Ruby on Rails</li>
-            <li>HTML5</li>
-            <li>CSS</li>
-            <li>MySQL</li>
-            <li>PostgreSQL</li>
-            <li>MongoDB</li>
-            <li>AWS</li>
-            <li>Jenkins</li>
-            <li>Docker</li>
-            <li>Kubernetes</li>
-            <li>A/B testing</li>
-            <li>Optimizely</li>
-            <li>Tag Management</li>
-          </ul>
-        </div>
-        -->
-
         <div class="block">
           <h2><span>Technical expertise</span></h2>
           <ul>
@@ -99,14 +78,17 @@
                 <li>TypeScript</li>
                 <li>Ruby</li>
                 <li>PHP</li>
+                <li>Pact</li>
               </ul>
             </li>
             <li>
               <strong>Frameworks/Platforms</strong>
               <ul class="tags">
                 <li>Vue.js</li>
-                <li>Nuxt.js</li>
-                <li>Angular2+</li>
+                <li>Nuxt</li>
+                <li>React</li>
+                <li>Next</li>
+                <li>Angular</li>
                 <li>Yii2</li>
                 <li>Ruby on Rails</li>
                 <li>Magento</li>
@@ -115,11 +97,15 @@
             <li>
               <strong>Web Technologies</strong>
               <ul class="tags">
+                <li>REST API</li>
+                <li>GraphQL</li>
+                <li>Microservises</li>
+                <li>Server-Side Rendering</li>
                 <li>HTML5</li>
                 <li>CSS</li>
                 <li>Sass (SCSS)</li>
-                <li>RESTful API</li>
-                <li>Server-Side Rendering</li>
+                <li>A/B testing</li>
+                <li>Tag Management</li>
               </ul>
             </li>
             <li>
@@ -131,28 +117,28 @@
               </ul>
             </li>
             <li>
-              <strong>Deployment</strong>
+              <strong>Deployment and hosting</strong>
               <ul class="tags">
+                <li>Docker</li>
                 <li>Kubernetes</li>
                 <li>Jenkins</li>
                 <li>AWS Services</li>
+                <li>Azure Cloud</li>
               </ul>
             </li>
           </ul>
         </div>
-
+        <div class="pagebreak" />
         <div class="block">
           <h2><span>Languages</span></h2>
           <ul>
             <li>English</li>
-            <li>Dutch (Intermediate level B1)</li>
-            <li>Russian</li>
+            <li>Dutch (B2 level)</li>
             <li>Ukrainian</li>
           </ul>
         </div>
-        <div class="pagebreak" style="height: 5px;"/>
 
-        <div class="block">
+        <!-- <div class="block">
           <h2><span>Awards/Leadership</span></h2>
           <ul>
             <li>2013 - awarded the nominal scholarship from the President of Ukraine for achieved academic successes,
@@ -162,6 +148,16 @@
             <li>2008 - 2010 - deputy head of the student council within the Institute of Telecommunication Systems</li>
             <li>2007 - 2011 - class leader at the Kyiv Polytechnic Institute</li>
           </ul>
+        </div> -->
+
+        <div class="block">
+          <h2><span>Volunteering</span></h2>
+          <ul>
+            <li>Workshops - Teach fundamentals of Frontend Development for non-Developers (Taste of Code) at KPN.</li>
+            <li>Organising and presenting at Women Frontend Developer Meetup.</li>
+            <li>Volunteer at The Next Web and JSWorld conferences.</li>
+            <li>Part of the Tech support team for the ADE Hackathon.</li>
+          </ul>
         </div>
 
         <div class="block">
@@ -169,10 +165,10 @@
           <ul class="tags">
             <li>Technology</li>
             <li>Sport</li>
-            <li>Piano</li>
             <li>Traveling</li>
+            <li>Meditation</li>
             <li>Yoga</li>
-            <li>Dancing</li>
+            <li>Piano</li>
             <li>Sustainable innovations</li>
           </ul>
         </div>
@@ -181,10 +177,9 @@
       <div class="col col-right">
         <h1>Liubov <span>Kononenko</span></h1>
         <p>
-          Motivated and result-oriented professional with over 9 years of commercial Full Stack Software Development experience
-          in an Agile environment, mostly focused on Web projects. Combining technical knowledge with business
-          and project management skills. Fast and eager learner, not intimidated by complex challenges, strong communicator,
-          resilient and driven even when things get tough. Passionate for technologies and sustainable innovations.
+          Lead Software Engineer with over 13 years of experience in commercial software development, blending technical proficiency with strategic leadership. My expertise in designing and delivering high-quality software solutions,
+          managing cross-functional development teams, and collaborating effectively with stakeholders to align technical projects with business objectives. I am committed to fostering innovation and collaboration, passionate about teamwork 
+          and value the shared sense of achievement.
         </p>
 
         <h2><span>Education</span></h2>
@@ -197,42 +192,75 @@
           <p class="text-strong">2007 – 2011 <span class="degree">Bachelor's degree - Computer Science</span></p>
           <p>Institute of Telecommunication Systems<br />
             National Technical University of Ukraine 'Kyiv Polytechnic Institute' (https://kpi.ua/en)</p>
-          <p>In <strong>2010</strong> - High potential exchange program with the Technische Universität Dresden to represent the Kyiv
+          <p>In <strong>2010</strong> - Exchange program with Technische Universität Dresden to represent the Kyiv
             Polytechnic Institute. Top 5% of students were selected.</p>
         </div>
 
         <h2><span>Work Experience</span></h2>
 
         <h4 class="company">
-          <a href="http://www.kpn.com" target="_blank">KPN</a>
-          <span> (https://www.kpn.com  - Dutch landline and mobile telecommunications company)</span>
+          <a href="https://www.kadena.io/" target="_blank">Kadena</a>
+          <span> (https://www.kadena.io - Blockchain company)</span>
         </h4>
         <div class="block">
-          <p class="text-strong">December 2018 – present<span class="degree">Technical Consultant / Software Engineer</span></p>
-          <p>Member of the eCommerce team with Agile working setup, responsible for a new Single Shop platform (high complexity project) with the main aim to make sure
-            customers can buy different types of products in one flow to improve customer experience and cross/up-sell. Key responsibilities:</p>
+          <p class="text-strong">June 2023 – August 2024<span class="degree">Lead Software Engineer</span></p>
+          <p>Enhancing Developer Experience and driving innovation within Kadena's blockchain space, optimize developer workflows. Key responsibilities:</p>
           <ul>
-            <li>Started the project from scratch with a Taskforce group to design a future proof architecture and provide solutions for technical challenges.</li>
-            <li>Align and solve dependencies with multiple cross-functional teams.</li>
-            <li>Manage stakeholders; gather, define and clarify business requirements.</li>
-            <li>Build new features based on requirements.</li>
-            <li>Perform code review, deployment and release management.</li>
-            <li>Evaluate resumes and interview candidates for the eCommerce team.</li>
+            <li>Develop tools that facilitate interaction with Kadena blockchain technology.</li>
+            <li>Implement smart contracts and decentralized applications (dApps).</li>
+            <li>Drive innovation by researching and prototyping new Web3 technologies.</li>
+            <li>Interview frontend developers, mentoring team members and conducting code reviews.</li>
+            <li>Collaborate with stakeholders to gather requirements and translate them into technical specifications.</li>
           </ul>
-          <p>Technology Stack: JavaScript, Vue.js (Nuxt.js with server-side rendering), Node.js, npm, Webpack, HTML, Sass, Jenkins, Kubernetes, T-Cloud, moving to AWS.</p>
+          <p>Tech Stack: Typescript, React (Next), Web3, Pact.</p>
+        </div>
+
+        <h4 class="company">
+          <a href="https://miele-x.com/" target="_blank">Miele X</a>
+          <span> (https://miele-x.com  - Global Digital Hub of Miele)</span>
+        </h4>
+        <div class="block">
+          <p class="text-strong">April 2021 – May 2023<span class="degree">Tech Lead & Frontend Architect</span></p>
+          <p>Responsible for the advancement and innovation of Miele's eCommerce platform. Spearheaded initiatives to modernize and optimize frontend architecture and development processes. Key responsibilities:</p>
+          <ul>
+            <li>Develop and execute Frontend technology strategy and vision for Miele's eCommerce platform, ensuring alignment with business objectives and market trends.</li>
+            <li>Define Frontend tech stack and architecture.</li>
+            <li>Recruit and develop high-performing frontend teams.</li>
+            <li>Mentor and guide teams of software engineers.</li>
+            <li>Align and address dependencies across multiple cross-functional teams, maintaining robust communication with all relevant stakeholders to ensure cohesive progress.</li>
+            <li>Implement and manage DevOps practices, including CI/CD processes and cloud-based web hosting.</li>
+            <li>Proactively engage in knowledge sharing initiatives to foster a culture of learning and continuous improvement within the organization.</li>
+          </ul>
+          <p>Tech Stack: Typescript, Nuxt3 (Vue3 + SSR), Vite, Vitest, i18n, Azure Cloud, Gitlab CI.</p>
+        </div>
+        <div class="pagebreak" />
+        <h4 class="company">
+          <a href="http://www.kpn.com" target="_blank">KPN</a>
+          <span> (https://www.kpn.com - Dutch landline and mobile telecommunications company)</span>
+        </h4>
+        <div class="block">
+          <p class="text-strong">December 2018 – April 2021<span class="degree">Lead Software Engineer</span></p>
+          <p>In the eCommerce team with Agile working setup, responsible for a new Single Shop platform (high complexity project) for all consumer KPN products to improve customer experience and cross/up-sell. Key responsibilities:</p>
+          <ul>
+            <li>Started the project from scratch with a Taskforce group to design a future proof architecture and provide solutions for technical challenges. At the end had a successful launch.</li>
+            <li>Lead and mentor Frontend team in both soft and technical skills.</li>
+            <li>Evaluate resumes and interview candidates for the eCommerce team.</li>
+            <li>Align and solve dependencies with multiple cross-functional teams. Align solutions cross different independent feature teams.</li>
+            <li>Introduce, organise and host Frontend guild for all KPN departments.</li>
+            <li>Perform code review, deployment and release management.</li>
+          </ul>
+          <p>Tech Stack: JavaScript, Nuxt.js (Vue.js + SSR), Node.js, Webpack, HTML, Sass, Jenkins, Kubernetes, T-Cloud, moving to AWS.</p>
         </div>
         <div class="block">
           <p class="text-strong">March 2017 – December 2018<span class="degree">Lead Frontend Developer</span></p>
-          <p>Created one shared eCommerce Checkout platform for all KPN products there by improving customer experience and
-            increasing amount of orders.</p>
-          <p>Key responsibilities:</p>
+          <p>Created one shared eCommerce Checkout platform for all KPN products by improving customer experience and increasing conversion. Key responsibilities:</p>
           <ul>
             <li>Design architecture of frontend applications, build new features based on requirements and ensure system consistency.</li>
             <li>Mentor new Frontend Developer team members.</li>
             <li>Evaluate resumes and interview candidates for the eCommerce team.</li>
             <li>Perform code review, deployment and release management.</li>
           </ul>
-          <p>Technology Stack: TypeScript, Angular 5, npm, Webpack, HTML, Sass, Storybook, Jenkins , Kubernetes, T-Cloud.</p>
+          <p>Tech Stack: TypeScript, Angular 5, Webpack, HTML, Sass, Storybook, Jenkins, Kubernetes, T-Cloud.</p>
         </div>
 
         <h4 class="company">
@@ -241,41 +269,27 @@
         </h4>
         <div class="block">
           <p class="text-strong">July 2016 – March 2017<span class="degree">Senior Frontend Developer</span></p>
-          <p>The project https://pushfor.com - secure content sharing platform with unique social features.</p>
-          <div class="pagebreak" />
+          <p>The project Pushfor - secure content sharing platform with unique social features.</p>
           <p>Key responsibilities:</p>
           <ul>
-            <li>Design the architecture and develop web application, build new features based on requirements.</li>
-            <li>Perform code review for other team members</li>
+            <li>Design the architecture and develop web application.</li>
+            <li>Build new features based on requirements and Perform code review.</li>
           </ul>
-          <p>Technology Stack: TypeScript, Angular 2, npm, Webpack, HTML, Sass, Jenkins .</p>
+          <p>Tech Stack: TypeScript, Angular 2, npm, Webpack, HTML, Sass, Jenkins.</p>
         </div>
         <div class="block">
           <p class="text-strong">August 2012 – July 2016<span class="degree">Full Stack Software Developer</span></p>
-          <p>Developed various type of projects (eCommerce, websites, applications) on client and server-side for worldwide customers.</p>
-          <p>Main projects and responsibilities:</p>
+          <p>Developed various type of projects (websites, eCommerce, applications) on client and server side for worldwide customers. Main projects and responsibilities:</p>
           <ul>
             <li>HR and Payment systems: design and development of the web projects, implement payments flow using PayPal and Stripe APIs.</li>
-            <li>Social App: building API for external systems; development web admin panel, web statistics.</li>
-            <li>Online store: development of the eCommerce project based on the Magento platform.</li>
+            <li>Social App: build API for external systems; develop web admin panel, web statistics.</li>
+            <li>Online store: develop eCommerce website.</li>
           </ul>
-          <p>Technology Stacks: Ruby (Ruby on Rails), PHP (Yii2), Magento , PostgreSQL, MongoDB, Javascript, jQuery, HTML, CSS.</p>
+          <p>Tech Stacks: Javascript, Ruby (Ruby on Rails), PHP (Yii2), Magento, PostgreSQL, MongoDB, jQuery, HTML, CSS.</p>
         </div>
         <div class="block">
           <p class="text-strong">May 2011 – August 2012<span class="degree">Junior Web Developer</span></p>
           <p>Web development based on CMSs, responsive web design, development of new plugins and modules.</p>
-          <p>Technology Stacks: Javascript, jQuery, HTML, CSS, PHP, MySQL, Drupal, Wordpress.</p>
-        </div>
-
-        <div class="block">
-          <h2><span>Volunteering</span></h2>
-          <ul>
-            <li>Workshops - Teach fundamentals of Frontend Development for non-Developers (Taste of Code) at KPN.</li>
-            <li style="text-align: left;">Volunteer at The Next Web conference 2019 - more information
-              <a href="https://tinyurl.com/y52baov6" target="_blank">https://tinyurl.com/y52baov6</a>.</li>
-            <li>Organising and presenting at Women Frontend Developer Meetup.</li>
-            <li>Part of the Tech support team for the ADE Hackathon.</li>
-          </ul>
         </div>
       </div>
     </div>
