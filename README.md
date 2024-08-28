@@ -2,7 +2,7 @@
 permalink: /index.html
 ---
 
-# cv
+# CV
 
 ## Project setup
 ```
