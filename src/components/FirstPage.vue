@@ -19,7 +19,7 @@
                 name="location"
                 class="icon"
                 size="lg" />
-            <span>Amsterdam, The Netherlands</span>
+            <span>Haarlem, The Netherlands</span>
           </div>
           <div class="flex-row">
             <ui-icon
@@ -49,23 +49,23 @@
                 size="lg" />
             <span><a href="https://lkononenko.github.io/cv/" target="_blank">https://lkononenko.github.io/cv</a></span>
           </div>-->
-          <div class="flex-row">
+          <!-- <div class="flex-row">
             <ui-icon
                 name="salesforce"
                 class="icon"
                 size="xl" />
             <span><a href="https://trailblazer.me/id/lkononenko" target="_blank">https://trailblazer.me/id/lkononenko</a></span>
-          </div>
+          </div> -->
         </div>
 
         <div class="block">
-          <h2><span>Certificates/Courses</span></h2>
+          <h2><span>Certificates</span></h2>
           <ul>
+            <li>Stakeholder Management @ Prowareness</li>
             <!-- ./files/pspo.pdf -->
             <li><a href="https://www.scrum.org/user/530356" target="_blank">Professional Scrum Product Owner (PSPOI)</a> @ Scrum.org</li>
-            <li>Stakeholder Management @ Prowareness</li>
             <li><a href="https://www.credly.com/badges/a6752fe3-3a80-4215-a676-607a2e7256e5?source=linked_in_profile" target="_blank">AWS Solution Architect – Associate</a> @ Global Knowledge </li>
-            <li>Professional Cloud Solutions Architect @ Global Knowledge</li>
+            <!-- <li>Professional Cloud Solutions Architect @ Global Knowledge</li> -->
           </ul>
         </div>
         <div class="block">
@@ -84,14 +84,13 @@
             <li>
               <strong>Frameworks/Platforms</strong>
               <ul class="tags">
-                <li>Vue.js</li>
-                <li>Nuxt</li>
                 <li>React</li>
                 <li>Next</li>
+                <li>Vue.js</li>
+                <li>Nuxt</li>
                 <li>Angular</li>
                 <li>Yii2</li>
                 <li>Ruby on Rails</li>
-                <li>Magento</li>
               </ul>
             </li>
             <li>
@@ -100,10 +99,10 @@
                 <li>REST API</li>
                 <li>GraphQL</li>
                 <li>Microservises</li>
-                <li>Server-Side Rendering</li>
+                <li>SSR</li>
                 <li>HTML5</li>
                 <li>CSS</li>
-                <li>Sass (SCSS)</li>
+                <li>Sass</li>
                 <li>A/B testing</li>
                 <li>Tag Management</li>
               </ul>
@@ -128,7 +127,6 @@
             </li>
           </ul>
         </div>
-        <div class="pagebreak" />
         <div class="block">
           <h2><span>Languages</span></h2>
           <ul>
@@ -137,6 +135,7 @@
             <li>Ukrainian</li>
           </ul>
         </div>
+        <div class="pagebreak" />
 
         <!-- <div class="block">
           <h2><span>Awards/Leadership</span></h2>
@@ -153,10 +152,10 @@
         <div class="block">
           <h2><span>Volunteering</span></h2>
           <ul>
-            <li>Workshops - Teach fundamentals of Frontend Development for non-Developers (Taste of Code) at KPN.</li>
-            <li>Organising and presenting at Women Frontend Developer Meetup.</li>
-            <li>Volunteer at The Next Web and JSWorld conferences.</li>
-            <li>Part of the Tech support team for the ADE Hackathon.</li>
+            <li>Organising and presenting at Frontend Meetups</li>
+            <li>Workshops - Teach fundamentals of Frontend Development for non-Developers (Taste of Code) at KPN</li>
+            <li>Volunteer at The Next Web and JSWorld conferences</li>
+            <li>Part of the Tech support team for the ADE Hackathon</li>
           </ul>
         </div>
 
@@ -164,12 +163,11 @@
           <h2><span>Interests</span></h2>
           <ul class="tags">
             <li>Technology</li>
-            <li>Sport</li>
             <li>Traveling</li>
-            <li>Meditation</li>
             <li>Yoga</li>
+            <li>Meditation</li>
             <li>Piano</li>
-            <li>Sustainable innovations</li>
+            <li>Sport</li>
           </ul>
         </div>
 
@@ -264,8 +262,8 @@
         </div>
 
         <h4 class="company">
-          <a href="https://www.softheme.com" target="_blank">Softheme</a>
-          <span> (https://www.softheme.com - Software Development outsourcing company)</span>
+          <a href="https://polytech.software/" target="_blank">Softheme</a>
+          <span> (https://polytech.software - Software Development outsourcing company)</span>
         </h4>
         <div class="block">
           <p class="text-strong">July 2016 – March 2017<span class="degree">Senior Frontend Developer</span></p>
